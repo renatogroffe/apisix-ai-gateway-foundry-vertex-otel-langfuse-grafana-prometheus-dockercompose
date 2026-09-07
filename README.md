@@ -14,3 +14,7 @@ Testes com Gemini Enterprise Agent Platform/Vertex - (utilizando google/gemini-3
 Testes com Gemini Enterprise Agent Platform/Vertex - (utilizando google/gemini-3.1-flash-lite como modelo e um ai-proxy-multi):
 
 ![Testes com Vertex 2](img/03-tests-vertex.png)
+
+Logs no Grafana Loki:
+
+![Grafana Loki](img/04-logs-loki.png)
