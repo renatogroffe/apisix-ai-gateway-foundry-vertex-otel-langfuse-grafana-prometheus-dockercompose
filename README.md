@@ -19,6 +19,10 @@ Logs no Grafana Loki:
 
 ![Grafana Loki](img/04-logs-loki.png)
 
+Métricas no Prometheus:
+
+![Prometheus](img/05-metrics-prometheus.png)
+
 Dashboard do APISIX no Grafana
 
 ![Dashboard do APISIX](img/06-dashboard-grafana.png)
