@@ -1,6 +1,8 @@
 # apisix-ai-gateway-foundry-vertex-otel-langfuse-grafana-prometheus-dockercompose
 Scripts do Docker Compose para subida de um ambiente do APISIX com capacidades de AI Gateway. Inclui monitoramento com OpenTelemetry + Grafana + Prometheus + Langfuse, com coleta de traces, métricas e logs. IAs testadas: Microsoft Foundry e Google Vertex.
 
+Um vídeo do Canal .NET demonstrando a utilização do APISIX com Microsoft Foundry: **https://www.youtube.com/watch?v=l_tkMKgknzE**
+
 ## Testes
 
 Testes com Microsoft Foundry - (utilizando gpt-5.5 como modelo e um ai-proxy):
