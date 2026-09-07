@@ -3,6 +3,8 @@ Scripts do Docker Compose para subida de um ambiente do APISIX com capacidades d
 
 Um vídeo do Canal .NET demonstrando a utilização do APISIX com Microsoft Foundry: **https://www.youtube.com/watch?v=l_tkMKgknzE**
 
+Slides sobre o uso de AI Gateways e sua importância: **https://github.com/renatogroffe/ai-gateways_ia-sem-desperdicio-2026-08**
+
 ## Testes
 
 Testes com Microsoft Foundry - (utilizando gpt-5.5 como modelo e um ai-proxy):
